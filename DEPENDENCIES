@@ -1,0 +1,16 @@
+
+
+### TwitterSearch ###
+
+https://github.com/ckoepp/TwitterSearch
+
+
+install with 'pip install TwitterSearch'
+
+
+
+
+### SQLite ###
+
+included in python modules
+(optional install sqlite3 from your package repository, to query manually)
